@@ -10,14 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> time to go.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Welcome!
-        </a>
+          I was chnaged ob the Feature branch
       </header>
     </div>
   );
